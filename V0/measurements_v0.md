@@ -1,6 +1,4 @@
-<span id="sec:appendix" label="sec:appendix">\[sec:appendix\]</span>
-
-The appendix contains all diagrams generated for each measurement.
+This document contains all diagrams generated for each measurement.
 
 5G SA
 -----
